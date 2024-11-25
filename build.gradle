@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'com.example'
+version = '1.0-SNAPSHOT'
+
+sourceCompatibility = '11'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.google.cloud:google-cloud-dialogflow:4.1.1'
+}
+
+application {
+    mainClassName = 'com.example.ChatBotUI'
+}
