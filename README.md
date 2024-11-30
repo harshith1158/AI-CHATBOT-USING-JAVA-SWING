@@ -52,26 +52,7 @@ Gradle: Build automation tool for managing dependencies and project tasks.
 AI API Integration: Integrates with various AI APIs for response generation.
 Project Structure
 css
-Copy code
-ai-chatbot/
-│
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/
-│   │   │       └── yourpackage/
-│   │   │           ├── Main.java
-│   │   │           ├── Chatbot.java
-│   │   │           └── ...
-│   │   └── resources/
-│   │       └── ...
-│   └── test/
-│       └── java/
-│           └── ...
-│
-├── build.gradle
-├── settings.gradle
-└── README.md
+
 Advantages
 User Engagement: Provides an interactive platform for users to engage in conversation.
 Educational Tool: Demonstrates the integration of AI and GUI in Java applications.
