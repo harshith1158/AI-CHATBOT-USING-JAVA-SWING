@@ -1,6 +1,6 @@
 AI Chatbot
 Introduction
-AI Chatbot is a desktop application developed using Java Swing that simulates a conversational agent capable of engaging in text-based dialogue with users. This project showcases the integration of AI capabilities into a user-friendly interface, providing an interactive and educational experience.
+AI Chatbot is a web application developed using Java Swing that simulates a conversational agent capable of engaging in text-based dialogue with users. This project showcases the integration of AI capabilities into a user-friendly interface, providing an interactive and educational experience.
 
 Features
 User-friendly GUI developed with Java Swing.
